@@ -27,15 +27,15 @@ def display_banner():
 {Fore.YELLOW}  --- Developed By: Secure_Horizon --- 
 {Fore.GREEN}  GitHub: https://github.com/chamidu200
 {Fore.CYAN}  YouTube: https://www.youtube.com/@chamidunimsara20052
-{Fore.RED}  Website: https://securehorizon.kesug.com/?i=1
+{Fore.RED}  Website: https://securehorizon.kesug.com/
 """
     print(banner)
 
 # Configurations
-API_ID = 29535298
-API_HASH = '432c585b7173e5baaf0207ffb6535e8d'
-SOURCE_GROUP = 'CyberTubeEthical'  # Replace with Source Group Username
-TARGET_GROUP = 'xxxxxxxxxxxxghm'  # Replace with Target Group Username
+API_ID = ''  #මෙහි Error එකක් ආවොත් '' ඉවත් කරන්න
+API_HASH = ''
+SOURCE_GROUP = ''  # Replace with Source Group Username
+TARGET_GROUP = ''  # Replace with Target Group Username
 DELAY_BETWEEN_ADDS = 30  # Increased delay between each user add
 
 # Load or create approved members list
