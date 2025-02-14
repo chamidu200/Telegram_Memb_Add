@@ -16,7 +16,7 @@
 
 ## **📸 SCREENSHOT**
 
-![Example Banner](path_to_image)
+![Example Banner](https://github.com/chamidu200/Telegram_Memb_Add/blob/1c3808230b55d4c2dcccafa5c5bd8d0a9f8d2b78/Telegram.PNG)
 
 
 ## **🎥 වීඩියෝ විස්තර**
