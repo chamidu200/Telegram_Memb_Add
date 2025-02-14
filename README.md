@@ -38,8 +38,8 @@
 ### පියවර 1: ගිටහි බාගත කිරීම
 terminal එකක් විවෘත කර පහත අණවලින් මෙම ගිටහි බාගත කරන්න:
 
-git clone https://github.com/chamidu200/your-repository-name.git
-cd Telegram_Members_Added
+git clone https://github.com/chamidu200/Telegram_Memb_Add.git
+cd Telegram_Memb_Add
 
 
 ### පියවර 2: Dependencies ස්ථාපනය කිරීම
@@ -102,7 +102,7 @@ python Telegram_Members_Added.PY
 
 ## **🔧 සම්බන්ධතා සහ සහාය**
 
-කේෂ්‍ට ප්‍රශ්න හෝ සහාය සඳහා [GitHub repository](https://github.com/chamidu200/your-repository-name/issues) මත issue එකක් ඉදිරිපත් කරන්න.
+කේෂ්‍ට ප්‍රශ්න හෝ සහාය සඳහා [GitHub Secure_Horizon](https://github.com/chamidu200/Telegram_Memb_Add.git) මත issue එකක් ඉදිරිපත් කරන්න.
 
 
 
